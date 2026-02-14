@@ -16,11 +16,20 @@ StudentManager.java → Business logic
 StudentInformationSystem.java → UI
 
 4)Visual Documentation
-Menu screen
+
 Add student
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b6d0db9-f9db-46b5-84fd-95637412338a" />
+
 View students
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3f08411-ed34-45db-b41e-ad5bb3f510df" />
+
 Search student
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c3321fe-b3e6-47ec-99ea-d95f4c9831c6" />
+
 Delete student
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/150f8b33-957e-4b16-9c92-558bc70714ed" />
+
+
 
 5)Technical Details Section
 Data Structure Used:
